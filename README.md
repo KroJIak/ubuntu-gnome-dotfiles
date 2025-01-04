@@ -25,7 +25,7 @@ This repository was created to quickly install my settings, configs and applicat
 
 ![Gnome pie view](assets/gnome-pie.gif)
 # Setup
-`Total installation time:` **`__ minutes`**
+`Total installation time:` **`17 minutes`**
 ## Ubuntu Expert Installer
 First, you need to install the Ubuntu 22.04 image. The installation can be done via a USB flash drive.
 Next, select the following options:
