@@ -19,7 +19,7 @@ This repository was created to quickly install my settings, configs and applicat
 ![btop++ view](assets/btop.png)
 - **GTK Theme:** Orchis orange dark
 
-![Media player and theme view](assets/media-player-and-theme.png)
+![Photo and theme view](assets/photo-and-theme.png)
 - **Web Browser:** Firefox
 - **Quick Access Toolbar (Dock replacement):** Gnome Pie
 
